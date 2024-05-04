@@ -1,7 +1,8 @@
 # Exploratory-Data-Analysis-on-a-Loans-Data-of-a-Private-Financial-Firm
 The Exploratory Data Analysis on a Loan Data of a Private Financial Firm project is focused on EDA of Financial Firm to provide the Data Exploration, Armed with Python, Pandas, Numpy, Matplotlib and through interactive visualization transforming raw data into actionable intelligence that drives strategic decision making..
 
-![image](https://github.com/Dhivya1420/Exploratory-Data-Analysis-on-a-Loans-Data-of-a-Private-Financial-Firm/assets/164134417/20d93a30-d5e0-448f-8dbf-336758448418)
+![image](https://github.com/Dhivya1420/Exploratory-Data-Analysis-on-a-Loans-Data-of-a-Private-Financial-Firm/assets/164134417/68e729dc-7f84-47ea-8a5c-f32e6a4ffcdb)
+
 
 
 # Objectives:
